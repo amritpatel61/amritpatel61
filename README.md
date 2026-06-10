@@ -30,7 +30,7 @@
 
 🚀 Digital Innovator focused on solving real-world problems
 
-🌱 Currently learning Python, AI Tools, Data Analysis and Modern Technologies
+🌱 Currently learning AI Tools, Data Analysis, Modern Technologies and Cyber Security 
 
 🎯 Mission: Build impactful AI-powered solutions that create value for people and businesses.
 
