@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="amrgithub.png" width="100%">
-</p>
+
 
 <h1 align="center">Pranam👋, It's me Amrit Patel</h1>
 
