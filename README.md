@@ -7,15 +7,6 @@
 <h3 align="center">
 🤖 AI Enthusiast • ✍️ Technical Writer • 🚀 Digital Innovator • 🎓 BSc CSIT Student
 </h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Solutions;Creative+AI+Enthusiast;Technical+Writer;Future+Technology+Builder;Exploring+AI+%26+Innovation;Learning+Every+Day+%F0%9F%9A%80" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amritpatel61&label=Profile+Views&color=0891b2&style=for-the-badge" />
-</p>
-
 ---
 
 ## 🚀 About Me
